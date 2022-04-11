@@ -12,9 +12,10 @@
 }
 
 .MMM-MonthlyCalendar .cell {
-  height: 120px;
+  height: 125px;
   text-align: center;
   vertical-align: top;
+  border: 1px solid #101010;
 }
 
 .MMM-MonthlyCalendar .today {
