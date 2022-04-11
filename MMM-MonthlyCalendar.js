@@ -249,7 +249,8 @@ Module.register("MMM-MonthlyCalendar", {
           if (e.color) {
             var c = e.color;
 
-            if (e.fullDayEvent) {
+//            if (e.fullDayEvent) { //fullDayEvent with white background
+            if (0==1) {
               div.style.backgroundColor = c;
               if (c[0] === "#") {
                 var r, g, b, l;
