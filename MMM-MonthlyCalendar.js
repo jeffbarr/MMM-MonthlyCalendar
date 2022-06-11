@@ -133,6 +133,7 @@ Module.register("MMM-MonthlyCalendar", {
       "threeweeks": 14,
       "fourweeks": 21,
       "nextfourweeks": 21,
+      "sixweeks" : 35,
     };
     var self = this;
     var now = new Date();
